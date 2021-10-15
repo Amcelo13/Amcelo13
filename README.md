@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 
-# Hi 👋🏻,I Am Chetan Thakur! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I Am Chetan Thakur! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Amcelo13&color=blue)<br>
