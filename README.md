@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-arijitparia2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitparia2002/)](https://www.linkedin.com/in/chetan-thakur-461b531a3/) 
+[![Linkedin Badge](https://img.shields.io/badge/-arijitparia2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-thakur-461b531a3/)](https://www.linkedin.com/in/chetan-thakur-461b531a3/) 
 [![Twitter Badge](https://img.shields.io/badge/-@chetanthakur89-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chetanthakur89)](https://twitter.com/chetanthakur89) 
 [![Facebook Badge](https://img.shields.io/badge/-uaahsh.wyhags.7-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/uaahsh.wyhags.7)](https://www.facebook.com/uaahsh.wyhags.7) 
 [![Instagram Badge](https://img.shields.io/badge/-@rajput_chetan_thakur-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rajput_chetan_thakur)](https://www.instagram.com/rajput_chetan_thakur) 
