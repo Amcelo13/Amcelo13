@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 # Hi ,I Am Chetan Thakur! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-![](https://komarev.com/ghpvc/?username=Amcelo13&color=blue)<br>
-
 ### A creative 😀 programmer exploring new fields of development.<br>
 💻<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br>
