@@ -4,16 +4,13 @@
 Here are some ideas to get you started:
 
 💻
-# Hi ,I Am Chetan Thakur!  width="30"><br>
+# Hi ,I Am Chetan Thakur! <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <br>
 ### A creative 😀 programmer exploring new fields of development.<br>
-
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
 </h2> 
 <br>
 - 👨‍🏭 I’m currently pursuing **B.Tech In Lovely Professional University** <br>
