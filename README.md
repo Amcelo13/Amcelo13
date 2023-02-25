@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🏫 I’m currently learning **Problem Solving , DSA & Web Devlopment** <br>
 - 🙌 I’m looking to collaborate on **Web Devlopement Front End** <br>
 - 🤔 I’m looking for help with **Web Development**<br>
-- 🥅 2021 Goals: **Web Projects and Open Source** <br>
+- 🥅 2023 Goals: **Web Projects and Open Source** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!
