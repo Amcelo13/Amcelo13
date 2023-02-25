@@ -4,9 +4,12 @@
 Here are some ideas to get you started:
 
 💻
-# Hi ,I Am Chetan Thakur! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I Am Chetan Thakur!  width="30"><br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 <br>
-
 ### A creative 😀 programmer exploring new fields of development.<br>
 
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
