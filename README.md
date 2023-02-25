@@ -10,7 +10,12 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Amcelo13&color=blue)<br>
 
 ### A creative 😀 programmer exploring new fields of development.<br>
-
+💻<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+<br>
 - 👨‍🏭 I’m currently pursuing **B.Tech In Lovely Professional University** <br>
 - 🏫 I’m currently learning **Problem Solving , DSA & Web Devlopment** <br>
 - 🙌 I’m looking to collaborate on **Web Devlopement Front End** <br>
