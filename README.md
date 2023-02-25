@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: **Web Projects and Open Source** <br>
 
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
+### 🕵 Take a look at my repositories and let's get in touch!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-thakurchetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-thakur-461b531a3/)](https://www.linkedin.com/in/chetan-thakur-461b531a3/) 
