@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 </h2> 
 <br>
-### A creative 😀 programmer exploring new fields of development.<br>
+### A creative 😀 programmer exploring new fields of development.
+<br>
 </h2> 
 <br>
 - 👨‍🏭 I’m currently pursuing **B.Tech In Lovely Professional University** <br>
