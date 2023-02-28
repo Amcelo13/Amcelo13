@@ -9,7 +9,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 </h2> 
-<br>
+<br/>
 ## A creative 😀 programmer exploring new fields of development.
 <br>
 </h2> 
