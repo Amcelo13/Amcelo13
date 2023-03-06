@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### 📈 Github Stats:
 <br>
 <a href="https://github.com/Amcelo13">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amcelo13&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amcelo13&show_icons=true&count_private=true" />
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
