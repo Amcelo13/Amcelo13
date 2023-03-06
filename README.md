@@ -20,14 +20,18 @@ Here are some ideas to get you started:
 - 🙌 I’m looking to collaborate on **Web Devlopement Front End** <br>
 - 🥅 2023 Goals: **Web Projects and Problem ** <br>
 
-
 ### 🕵 Take a look at my repositories and let's get in touch!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-thakurchetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-thakur-461b531a3/)](https://www.linkedin.com/in/chetan-thakur-461b531a3/) 
-[![Twitter Badge](https://img.shields.io/badge/-@chetanthakur89-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chetanthakur89)](https://twitter.com/chetanthakur89) 
-[![Facebook Badge](https://img.shields.io/badge/-tchetan91-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/uaahsh.wyhags.7)](https://www.facebook.com/uaahsh.wyhags.7) 
-[![Instagram Badge](https://img.shields.io/badge/-@rajput_chetan_thakur-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rajput_chetan_thakur)](https://www.instagram.com/rajput_chetan_thakur) 
+
+ 📫 How to reach me **tchetan308@gmail.com**
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chetan-thakur-461b531a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-thakur-546937200/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajput_chetan_thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetanthakur" height="30" width="40" /></a>
+<a href="https://twitter.com/chetanthakur89" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1245px-Twitter-logo.svg.png" alt="chetanthakur" height="30" width="40" /></a>
+</p>
 
 ### Languages & Tools :
 
