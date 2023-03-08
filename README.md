@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 💻
 ### Hi ,I Am Chetan Thakur! <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width=100%>
 
 </h2> 
 <br>
