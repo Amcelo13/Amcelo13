@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
  📫 How to reach me **tchetan308@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chetan-thakur-461b531a3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-thakur-546937200/" height="30" width="40" /></a>
