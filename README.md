@@ -2,6 +2,7 @@
 <!--**Amcelo13/Amcelo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amcelo13" alt="Amcelo13" /> </p>
 
 💻
 ### Hi ,I Am Chetan Thakur! <br>
