@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Tailwind CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<img align="left" alt="Material UI" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" />
 <img align="left" alt="React" width="26px" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" />
 
 <img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
