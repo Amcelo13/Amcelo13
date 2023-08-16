@@ -55,9 +55,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
 
-<img align="left" alt="Stripe" width="40px" src="https://b.stripecdn.com/site-statics-srv/assets/assets/img/v3/home/twitter-80afaafee00af0bc21d345164a2a9bb6.png" />
+
+<img align="left" alt="Postman" width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
+<img align="left" alt="Postman" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
 
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
