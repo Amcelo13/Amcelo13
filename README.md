@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me on:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/chetan-thakur-461b531a3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-thakur-546937200/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rajput_chetan_thakur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetanthakur" height="30" width="40" /></a>
-<a href="https://twitter.com/chetanthakur89" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1245px-Twitter-logo.svg.png" alt="chetanthakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chetan-thakur-461b531a3/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="chetan-thakur-546937200/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajput_chetan_thakur" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_640.jpg" alt="chetanthakur" height="30" width="40" /></a>
+<a href="https://twitter.com/chetanthakur89" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_640.png" alt="chetanthakur" height="30" width="40" /></a>
 </p>
 
 ### Languages & Tools :
