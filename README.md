@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Rabbit MQ" width="40px" src="https://zenmonk.tech/images/technologies/rabbitmq.svg"/>
 <img align="left" alt="Mongo DB" width="40px" src="https://zenmonk.tech/images/technologies/mongodb.svg"/>
 <br/>
-<br/>
-<img alt="Redis" width="80px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"/>
+
+<img alt="Redis" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"/>
 
 <br />
 <br/>
