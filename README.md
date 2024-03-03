@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👨‍🏭 I’m currently pursuing **B.Tech In Lovely Professional University** <br>
 - 🏫 I’m currently learning **Problem Solving , DSA & Web Devlopment** <br>
 - 🙌 I’m looking to collaborate on **Web Devlopement Front End** <br>
-- 🥅 2023 Goals: **Web Project and problem solving** <br>
+- 🥅 2024 Goals: **Web Project and problem solving** <br>
 
 ### 🕵 Take a look at my repositories and let's get in touch!
 
