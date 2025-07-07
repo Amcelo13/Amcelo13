@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me
-Email: tchetan308@gmail.com
-LinkedIn: Chetan Thakur
-Portfolio: chetanthakur.dev
+Email: tchetan308@gmail.com <br/>
+LinkedIn: Chetan Thakur   <br/>
+Portfolio: chetanthakur.dev    <br/>
 
 🌐 Connect with me on:
 <p align="left"> <a href="https://www.linkedin.com/in/thakurchetan20/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /> </a> <a href="https://www.instagram.com/rajput_chetan_thakur" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" height="30" width="30" /> </a> <a href="https://twitter.com/chetanthakur89" target="_blank">
