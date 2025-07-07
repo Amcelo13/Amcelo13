@@ -31,7 +31,7 @@ Portfolio: chetanthakur.dev
 
 🌐 Connect with me on:
 <p align="left"> <a href="https://www.linkedin.com/in/thakurchetan20/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /> </a> <a href="https://www.instagram.com/rajput_chetan_thakur" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" height="30" width="30" /> </a> <a href="https://twitter.com/chetanthakur89" target="_blank">
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.disobey.gg%2Fblog%2Fdownload-twitters-new-x-logo-here&psig=AOvVaw04VCFpLTgqP7RChkjiAm2m&ust=1751982913079000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCD8orzqo4DFQAAAAAdAAAAABAE" alt="X (Twitter)" height="30" width="30" />
+<img align="center" src="https://img.freepik.com/premium-vector/aplication-x-twitter-logo-vector_798572-316.jpg?semt=ais_hybrid&w=740" alt="X (Twitter)" height="30" width="30" />
 </a> </p>
 
 🛠️ Languages & Tools:
